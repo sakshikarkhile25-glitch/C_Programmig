@@ -1,5 +1,3 @@
-//Accept number from user and check whether number is even or odd.
-
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -20,6 +18,17 @@ bool ChkEven(int iNo)
 
     }
 }
+///////////////////////////////////////////////
+//
+//Function Name:ChkEvenOdd
+//Description: It is used to perform even or odd
+//Input:bool 
+//Output:Integer
+//Author:Sakshi Damodar Karkhile
+//Date:25/10/2025
+//
+////////////////////////////////////////////////
+
 
 int main()
 {
@@ -35,6 +44,7 @@ int main()
     
     return 0;
 }
+
 
 
 
