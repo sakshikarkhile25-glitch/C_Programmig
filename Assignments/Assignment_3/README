@@ -1,1 +1,23 @@
+Q1 program1.c:
+Input: Enter Number 7
+Output : 2 4 6 8 10 12 14
+
+Q2 Program2.c
+Input : Enter Number 24
+Output : 1 2 4 6 8 12
+
+Q3 program3.c
+Input :36
+Output: 2 6 12 36
+
+Q4 program4.c
+Input :a Output: Converted Charcter:A
+Input :D Output: Converted Character: d
+
+Q5 program5:c
+Input :E  Output :TRUE
+Input :d  Output : FALSE
+
+
+
 
