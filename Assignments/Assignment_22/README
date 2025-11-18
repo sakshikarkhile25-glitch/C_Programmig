@@ -1,1 +1,107 @@
+Assignment_22
+Outputs:
+
+program1.c : 
+Enter number of elements :
+6
+Enter 6 elements :
+85
+66
+3
+80
+93
+88
+Result is : 3
+
+program2.c :
+Enter number of elements :
+7
+Enter 7 elements :
+85
+66
+3
+80
+93
+88
+90
+Result is : 1
+
+program3.c :
+Enter number of elements :
+6
+Enter 6 elements :
+85
+66
+11
+80
+93
+88
+11 is present
+
+Enter number of elements :
+6
+Enter 6 elements :
+85
+66
+3
+80
+93
+88
+11 is absent
+
+program4.c :
+Enter number of elements : 6
+Enter 6 elements
+Enter element : 1
+85
+Enter element : 2
+66
+Enter element : 3
+3
+Enter element : 4
+15
+Enter element : 5
+93
+Enter element : 6
+88
+Frequency of 11 is : 0
+
+Enter number of elements : 6
+Enter 6 elements
+Enter element :1
+85
+Enter element : 2
+11
+Enter element : 3
+3
+Enter element : 4
+15
+Enter element : 5
+11
+Enter element : 6
+111
+Frequency of 11 is : 2
+
+program5.c :
+Enter number of elements: 6
+Enter the number to check frequency: 66
+Enter 6 elements:
+Enter element 1 : 85
+Enter element 2 : 66
+Enter element 3 : 3
+Enter element 4 : 66
+Enter element 5 : 93
+Enter element 6 : 88
+Frequency of 66 is : 2
+
+Enter number of elements: 6
+Enter the number to check frequency: 12
+Enter 6 elements:
+Enter element 1 : 85
+Enter element 2 : 11
+Enter element 3 : 3
+Enter element 4 : 15
+Enter element 5 : 11
+Enter element 6 : 11
+Frequency of 12 is : 0
 
