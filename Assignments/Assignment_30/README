@@ -1,1 +1,46 @@
+Input/Outputs : Assignment_30
+
+program1.c
+Enter the number of Rows:4
+Enter the number of Cloumns:4
+*       #       #       #
+*       *       #       #
+*       *       *       #
+*       *       *       *
+
+program2.c
+Enter the number of Rows:4
+Enter the number of Cloumns:4
+*       *       *       *
+*       *       *       #
+*       *       #       #
+*       #       #       #
+
+program3.c 
+Enter the number of Rows:5
+Enter the number of Cloumns:5
+$       *       *       *       *
+*       $       *       *       *
+*       *       $       *       *
+*       *       *       $       *
+*       *       *       *       $
+
+program4.c
+Enter the number of Rows:6
+Enter the number of Cloumns:5
+*       *       *       *       *
+*       @       @       @       *
+*       @       @       @       *
+*       @       @       @       *
+*       @       @       @       *
+*       *       *       *       *
+
+program5.c
+Enter the number of Rows:4
+Enter the number of Cloumns:4
+1       2       3       4
+1       *       *       4
+1       *       *       4
+1       2       3       4
+
 
