@@ -1,1 +1,46 @@
+INPUT/OUTPUT:Assignment_31
 
+
+program1.c 
+Enter number of Rows : 4
+Enter number of Columns : 4
+ *
+ *       *
+ *       *       *
+ *       *       *       *
+
+
+program2.c 
+Enter number of Rows : 4
+Enter number of Columns : 4
+*       *       *       *
+*       *       *
+*       *
+*
+
+program3.c 
+Enter the number of Rows:5
+Enter the number of Coloumns:5
+$       *       *       *       *
+#       $       *       *       *
+#       #       $       *       *
+#       #       #       $       *
+#       #       #       #       $
+
+program4.c 
+Enter the number of Rows:6
+Enter the number of Coloumns:6
+*       *       *       *       *       *
+*       *                               *
+*               *                       *
+*                       *               *
+*                               *       *
+*       *       *       *       *       *
+
+program5.c 
+Enter the number of Rows:4
+Enter the number of Coloumns:4
+1       2       3       4
+        2       3       4
+                3       4
+                        4
